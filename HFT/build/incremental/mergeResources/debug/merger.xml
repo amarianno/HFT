@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res" >
+            <file
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/values-sw600dp/dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                name="screen_ac"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/menu/screen_ac.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >HFT
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                name="ic_launcher"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                name="ic_launcher"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="screen_ac"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/layout/screen_ac.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="runner"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/drawable-xxhdpi/runner.jpg"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="zenjutsu"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/drawable-hdpi/zenjutsu.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="logo"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/drawable-xhdpi/logo.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="zenjutsu"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/drawable-xxhdpi/zenjutsu.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="logo"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/drawable-mdpi/logo.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="menu_ac"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/layout/menu_ac.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="zenjutsu"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/drawable-mdpi/zenjutsu.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="runner"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/drawable-hdpi/runner.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="zenjutsu"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/drawable-xhdpi/zenjutsu.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="logo"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/drawable-hdpi/logo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="logo"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/drawable-xxhdpi/logo.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="runner"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/drawable-xhdpi/runner.jpg"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="runner"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/drawable-mdpi/runner.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="selecionar_alunos"
+                path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/main/res/layout/selecionar_alunos.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/10973787724/AndroidStudioProjects/HFT/HFT/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/10973787724/AndroidStudioProjects/HFT/HFT/src/debug/res" />
+    </dataSet>
+
+</merger>
